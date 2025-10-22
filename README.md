@@ -50,6 +50,8 @@ EMAIL_PASS=your_email_password
 OPEN_BETA=true
 ```
 
+Deployment:https://yvetal-005-1.onrender.com/
+
 ## Deployment
 
 The application is configured for deployment on Vercel. Make sure to set the environment variables in the Vercel dashboard.
